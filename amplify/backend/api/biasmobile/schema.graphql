@@ -1,0 +1,26 @@
+type Submission @model {
+  id: ID!
+  form_type: String!
+  latitude: Float!
+  longitude: Float!
+  location_name: String
+  date: String!
+  bias_type: [String]
+  description: String!
+  involved: String
+  involved_gender_identity: String
+  involved_ethnicity: String
+  involved_sexual_orientation: String
+  action_required: String!
+  gender_identity: [String]
+  ethnicity: String
+  sexual_orientation: String
+  name: String!
+  email: String!
+  phone: String
+  contact_method: String
+  confidential: Boolean!
+  status: String
+  verified_by: String
+  comments: String
+}

@@ -1,0 +1,17 @@
+projects:
+  biasmobile:
+    schemaPath: >-
+      C:/Users/lruiz/OneDrive/Desktop/project
+      bias/biasMobile/graphql/schema.json
+    includes:
+      - src/graphql/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: 'C:/Users/lruiz/OneDrive/Desktop/project bias/biasMobile/graphql'
+extensions:
+  amplify:
+    version: 3

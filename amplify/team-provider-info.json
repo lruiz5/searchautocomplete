@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-biasmobile-dev-105824-authRole",
+      "UnauthRoleArn": "arn:aws:iam::692544187968:role/amplify-biasmobile-dev-105824-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::692544187968:role/amplify-biasmobile-dev-105824-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-biasmobile-dev-105824-deployment",
+      "UnauthRoleName": "amplify-biasmobile-dev-105824-unauthRole",
+      "StackName": "amplify-biasmobile-dev-105824",
+      "StackId": "arn:aws:cloudformation:us-east-2:692544187968:stack/amplify-biasmobile-dev-105824/1d7f3030-7609-11eb-a44e-06475899f796",
+      "AmplifyAppId": "dppbb445p4nhw"
+    }
+  }
+}
